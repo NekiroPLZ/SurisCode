@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\Suris Code\\Suris Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|d:\\net\\suris code\\suris code\\suris code\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|solutionrelative:suris code\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|d:\\net\\suris code\\suris code\\suris code\\data\\pedidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|solutionrelative:suris code\\data\\pedidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|d:\\net\\suris code\\suris code\\suris code\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|solutionrelative:suris code\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|d:\\net\\suris code\\suris code\\suris code\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|solutionrelative:suris code\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|d:\\net\\suris code\\suris code\\suris code\\data\\articulos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|solutionrelative:suris code\\data\\articulos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|d:\\net\\suris code\\suris code\\suris code\\repository\\articulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|solutionrelative:suris code\\repository\\articulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|d:\\net\\suris code\\suris code\\suris code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF382FB-216A-4E26-B3C4-2AB6460B5045}|Suris Code\\Suris Code.csproj|solutionrelative:suris code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "Suris Code\\Controllers\\VendedorController.cs",
+              "ToolTip": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "Suris Code\\Controllers\\VendedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:56:09.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "articulos.json",
+              "DocumentMoniker": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Data\\articulos.json",
+              "RelativeDocumentMoniker": "Suris Code\\Data\\articulos.json",
+              "ToolTip": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Data\\articulos.json",
+              "RelativeToolTip": "Suris Code\\Data\\articulos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T03:13:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Suris Code\\Controllers\\PedidosController.cs",
+              "ToolTip": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Suris Code\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:54:49.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Suris Code\\Controllers\\ArticulosController.cs",
+              "ToolTip": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Suris Code\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:54:45.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticulosRepository.cs",
+              "DocumentMoniker": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Repository\\ArticulosRepository.cs",
+              "RelativeDocumentMoniker": "Suris Code\\Repository\\ArticulosRepository.cs",
+              "ToolTip": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Repository\\ArticulosRepository.cs",
+              "RelativeToolTip": "Suris Code\\Repository\\ArticulosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:51:37.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pedidos.json",
+              "DocumentMoniker": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Data\\pedidos.json",
+              "RelativeDocumentMoniker": "Suris Code\\Data\\pedidos.json",
+              "ToolTip": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Data\\pedidos.json",
+              "RelativeToolTip": "Suris Code\\Data\\pedidos.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T03:14:34.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Program.cs",
+              "RelativeDocumentMoniker": "Suris Code\\Program.cs",
+              "ToolTip": "D:\\NET\\Suris Code\\Suris Code\\Suris Code\\Program.cs",
+              "RelativeToolTip": "Suris Code\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:39:18.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

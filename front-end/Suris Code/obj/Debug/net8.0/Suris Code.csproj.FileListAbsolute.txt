@@ -1,0 +1,35 @@
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\appsettings.Development.json
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\appsettings.json
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Suris Code.exe
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Suris Code.deps.json
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Suris Code.runtimeconfig.json
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Suris Code.dll
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Suris Code.pdb
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.csproj.AssemblyReference.cache
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.AssemblyInfoInputs.cache
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.AssemblyInfo.cs
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.csproj.CoreCompileInputs.cache
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.MvcApplicationPartsAssemblyInfo.cs
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.MvcApplicationPartsAssemblyInfo.cache
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\staticwebassets.build.json
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\staticwebassets.development.json
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\staticwebassets\msbuild.Suris Code.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\staticwebassets\msbuild.build.Suris Code.props
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Suris Code.props
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Suris Code.props
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\scopedcss\bundle\Suris Code.styles.css
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.csproj.Up2Date
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.dll
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\refint\Suris Code.dll
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.pdb
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\Suris Code.genruntimeconfig.cache
+D:\NET\Suris Code\Suris Code\Suris Code\obj\Debug\net8.0\ref\Suris Code.dll
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Data\articulos.json
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Data\vendedores.json
+D:\NET\Suris Code\Suris Code\Suris Code\bin\Debug\net8.0\Data\pedidos.json

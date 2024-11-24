@@ -1,0 +1,6 @@
+@Suris_Code_HostAddress = http://localhost:5085
+
+GET {{Suris_Code_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

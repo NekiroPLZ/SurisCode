@@ -1,0 +1,82 @@
+{
+  "pedidos": [
+    {
+      "ArticulosCodigo": [
+        "K1024"
+      ]
+    },
+    {
+      "ArticulosCodigo": [
+        "K1020"
+      ]
+    },
+    {
+      "ArticulosCodigo": [
+        "K1026"
+      ]
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": [
+        "K1026"
+      ]
+    },
+    {
+      "ArticulosCodigo": [
+        "K1020"
+      ]
+    },
+    {
+      "ArticulosCodigo": [
+        "string"
+      ]
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": [
+        "K1026"
+      ]
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": []
+    },
+    {
+      "ArticulosCodigo": [
+        "K1026"
+      ]
+    },
+    {
+      "ArticulosCodigo": [
+        "K1026"
+      ]
+    },
+    {
+      "ArticulosCodigo": [
+        "K1024",
+        "K1020"
+      ]
+    }
+  ]
+}

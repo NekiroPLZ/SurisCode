@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "Suris_Code.Controllers.ArticulosController",
+    "Method": "Get",
+    "RelativePath": "api/articulo/articulos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Suris_Code.Controllers.PedidosController",
+    "Method": "CrearPedido",
+    "RelativePath": "api/pedido/crearpedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "Suris_Code.Models.Pedido",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Suris_Code.Controllers.VendedorController",
+    "Method": "ObtenerVendedores",
+    "RelativePath": "api/vendedor/vendedores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
